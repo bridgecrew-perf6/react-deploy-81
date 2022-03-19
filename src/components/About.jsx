@@ -11,7 +11,7 @@ export default function About() {
             alt="profile"
           />
           <div className="text-lg flex flex-col justify-center lg:m-9">
-            <h1 className="cursive text-2xl lg:text-6xl text-sky-300 mb-4 mt-5">
+            <h1 className="cursive text-2xl lg:text-6xl text-sky-400 mb-4 mt-5">
               Hey there. I'm <span className="text-sky-100">Tirsa</span>
             </h1>
             <div>
