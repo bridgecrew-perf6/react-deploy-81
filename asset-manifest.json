@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.a571533f.css",
-    "main.js": "/react-deploy/static/js/main.63e75996.js",
+    "main.js": "/react-deploy/static/js/main.ecd8df80.js",
     "static/js/415.5c48a123.chunk.js": "/react-deploy/static/js/415.5c48a123.chunk.js",
     "static/js/787.480f222b.chunk.js": "/react-deploy/static/js/787.480f222b.chunk.js",
     "static/media/photo3.JPG": "/react-deploy/static/media/photo3.059052ed27d93583446d.JPG",
@@ -11,12 +11,12 @@
     "static/media/photo4.JPG": "/react-deploy/static/media/photo4.c7cdf6365acbf84d25c0.JPG",
     "index.html": "/react-deploy/index.html",
     "main.a571533f.css.map": "/react-deploy/static/css/main.a571533f.css.map",
-    "main.63e75996.js.map": "/react-deploy/static/js/main.63e75996.js.map",
+    "main.ecd8df80.js.map": "/react-deploy/static/js/main.ecd8df80.js.map",
     "415.5c48a123.chunk.js.map": "/react-deploy/static/js/415.5c48a123.chunk.js.map",
     "787.480f222b.chunk.js.map": "/react-deploy/static/js/787.480f222b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a571533f.css",
-    "static/js/main.63e75996.js"
+    "static/js/main.ecd8df80.js"
   ]
 }
