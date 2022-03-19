@@ -1,8 +1,17 @@
 import React from "react";
 import projectList from "../projectList";
-
+import photo1 from '../img/photo1.JPG'
+import photo2 from '../img/photo2.JPG'
+import photo3 from '../img/photo3.JPG'
+import photo4 from '../img/photo4.JPG'
 
 export default function Projects(){
+    const IMAGE_MAPS = {
+        "photo1":photo1,
+        "photo2":photo2,
+        "photo3":photo3,
+        "photo4":photo4,
+    }
 
     return (
         <main className="relative z-10 min-h-screen mb-[100px] lg:mb-0">
@@ -20,7 +29,7 @@ export default function Projects(){
                     >
                       <img
                         key={post.id}
-                        src={post.image}
+                        src={IMAGE_MAPS[post.image]}
                         alt={post.alt}
                         className="w-full h-full rounded-r object-cover absolute "
                       />

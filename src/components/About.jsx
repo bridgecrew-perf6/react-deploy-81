@@ -4,7 +4,7 @@ export default function About() {
   return (
     <main className="relative z-10">
       <div className="p-10 lg:p-[200px] lg:pt-[100px] container mx-auto relative">
-        <section className="bg-slate-700 rounded-lg shadow-2xl lg:flex p-20 bg-opacity-70">
+        <section className="bg-slate-700 rounded-lg shadow-2xl xl:flex p-20 bg-opacity-70">
           <img
             className="rounded sm:w-64 sm:h-full sm:mx-auto lg:w-64 lg:h-full mr-8"
             src={profile}
