@@ -5,7 +5,7 @@ import Projects from "./components/Projects"
 import Contact from "./components/Contact"
 import NavBar from "./components/NavBar"
 import Footer from "./components/Footer"
-
+import Particles from "./particleBackground"
 
 
 function App() {
@@ -21,6 +21,7 @@ function App() {
         </Routes>
       </HashRouter>
       <Footer/>
+      <Particles/>
     </div>
   )
 }
