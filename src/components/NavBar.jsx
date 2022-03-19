@@ -7,8 +7,8 @@ export default function NavBar() {
       <div className="container mx-auto flex justify-between">
         <nav className="flex">
           <NavLink
+            exact="true"
             to="/"
-            exact
             className="inflex-flex items-center py-7 px-3 mr-4 text-sky-100 hover:text-sky-400 text-4xl font-bold cursive tracking-widest"
           >
             TG
