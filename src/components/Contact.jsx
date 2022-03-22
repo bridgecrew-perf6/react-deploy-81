@@ -46,7 +46,7 @@ export default function Contact() {
           </h1>
           <p className="text-center text-white">By email: trrgomez47@hotmail.com</p>
           <p className="text-center text-white">or send me a message.</p>
-          <form action="mailto:trgomez47@gmail.com" className="flex flex-col space-y-4 p-8" onSubmit={handleSubmit}>
+          <form className="flex flex-col space-y-4 p-8" onSubmit={handleSubmit}>
             <div>
               <label htmlFor="name" className="text-sky-300 text-lg">
                 Name:
