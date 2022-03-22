@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.content-div {
+    transition: all 0.5s;
+}
+
+.content-div:hover {
+    background-image: linear-gradient(
+        to right,
+        rgba(54, 173, 241, 0.8),
+        rgba(58, 52, 241, 0.8)
+    );
+}
