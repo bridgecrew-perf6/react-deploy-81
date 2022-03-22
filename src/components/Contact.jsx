@@ -41,10 +41,12 @@ export default function Contact() {
     <main className="relative z-10">
       <div className="flex justify-center items-center  min-h-screen">
         <section className="bg-slate-700 rounded-xl p-8 shadow-lg bg-opacity-80">
-          <h1 className="cursive text-4xl text-sky-400 mb-4 mt-5 text-center">
+          <h1 className="cursive text-4xl text-sky-400 mb-4 mt-5 text-center ">
             Contact Me
           </h1>
-          <form className="flex flex-col space-y-4 p-8" onSubmit={handleSubmit}>
+          <p className="text-center text-white">By email: trrgomez47@hotmail.com</p>
+          <p className="text-center text-white">or send me a message.</p>
+          <form action="mailto:trgomez47@gmail.com" className="flex flex-col space-y-4 p-8" onSubmit={handleSubmit}>
             <div>
               <label htmlFor="name" className="text-sky-300 text-lg">
                 Name:
