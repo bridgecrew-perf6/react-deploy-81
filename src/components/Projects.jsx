@@ -4,13 +4,14 @@ import photo1 from "../img/photo1.JPG";
 import photo2 from "../img/photo2.JPG";
 import photo3 from "../img/photo3.JPG";
 import photo4 from "../img/photo4.JPG";
-
+import photo9 from "../img/photo9.JPG"
 export default function Projects() {
   const IMAGE_MAPS = {
     photo1: photo1,
     photo2: photo2,
     photo3: photo3,
     photo4: photo4,
+    photo9: photo9,
   };
 
   return (

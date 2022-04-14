@@ -31,6 +31,14 @@ const projectList = [
         GitHub:"https://github.com/trrgomez/code-quiz",
         deployedLink:"https://trrgomez.github.io/code-quiz/"
     },
+    {
+        id:4,
+        title:"Babble-App",
+        image:"photo5",
+        alt:"babble website",
+        GitHub:"https://github.com/JohnPac15/babble-app.git",
+        deployedLink:"https://gentle-retreat-43606.herokuapp.com/"
+    },
 
 ]
 
