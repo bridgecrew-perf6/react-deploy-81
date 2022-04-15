@@ -34,7 +34,7 @@ const projectList = [
     {
         id:4,
         title:"Babble-App",
-        image:"photo5",
+        image:"photo9",
         alt:"babble website",
         GitHub:"https://github.com/JohnPac15/babble-app.git",
         deployedLink:"https://gentle-retreat-43606.herokuapp.com/"
