@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.a41ea808.css",
-    "main.js": "/react-deploy/static/js/main.41858573.js",
+    "main.js": "/react-deploy/static/js/main.632eb052.js",
     "static/js/415.5c48a123.chunk.js": "/react-deploy/static/js/415.5c48a123.chunk.js",
     "static/js/787.480f222b.chunk.js": "/react-deploy/static/js/787.480f222b.chunk.js",
     "static/media/photo10.JPG": "/react-deploy/static/media/photo10.109d11ef8806544560c9.JPG",
@@ -13,12 +13,12 @@
     "static/media/photo4.JPG": "/react-deploy/static/media/photo4.c7cdf6365acbf84d25c0.JPG",
     "index.html": "/react-deploy/index.html",
     "main.a41ea808.css.map": "/react-deploy/static/css/main.a41ea808.css.map",
-    "main.41858573.js.map": "/react-deploy/static/js/main.41858573.js.map",
+    "main.632eb052.js.map": "/react-deploy/static/js/main.632eb052.js.map",
     "415.5c48a123.chunk.js.map": "/react-deploy/static/js/415.5c48a123.chunk.js.map",
     "787.480f222b.chunk.js.map": "/react-deploy/static/js/787.480f222b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a41ea808.css",
-    "static/js/main.41858573.js"
+    "static/js/main.632eb052.js"
   ]
 }
