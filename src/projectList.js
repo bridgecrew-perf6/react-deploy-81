@@ -13,7 +13,7 @@ const projectList = [
         image:"photo2",
         alt:"A runner's website",
         GitHub:"https://github.com/trrgomez/run-buddy",
-        deployedLink:"https://lernantino.github.io/run-buddy/"
+        deployedLink:"https://trrgomez.github.io/run-buddy/"
     },
     {
         id:2,
@@ -21,13 +21,13 @@ const projectList = [
         image:"photo3",
         alt:"brew me website",
         GitHub:"https://github.com/jessebubble/brew-me",
-        deployedLink:"https://jesseovr.github.io/brew-me/"
+        deployedLink:"https://jessebubble.github.io/brew-me/"
     },
     {
         id:3,
         title:"Code Quiz",
         image:"photo4",
-        alt:"brew me website",
+        alt:"quiz",
         GitHub:"https://github.com/trrgomez/code-quiz",
         deployedLink:"https://trrgomez.github.io/code-quiz/"
     },
