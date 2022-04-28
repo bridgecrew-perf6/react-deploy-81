@@ -39,6 +39,14 @@ const projectList = [
         GitHub:"https://github.com/JohnPac15/babble-app.git",
         deployedLink:"https://gentle-retreat-43606.herokuapp.com/"
     },
+    {
+        id:5,
+        title:"Food Truck Website",
+        image:"photo9",
+        alt:"Food Truck Website",
+        GitHub:"https://github.com/trrgomez/food-truck-ui.git",
+        deployedLink:"https://trrgomez.github.io/food-truck-ui/"
+    },
 
 ]
 
