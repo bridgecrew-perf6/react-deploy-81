@@ -5,7 +5,7 @@ const projectList = [
         image:"photo1",
         alt:"Insurance website",
         GitHub:"https://github.com/JohnPac15/PIA-website",
-        deployedLink:"https://pacini-insurance.herokuapp.com/"
+        deployedLink:"https://warm-dusk-30815.herokuapp.com/"
     },
     {
         id:1,
