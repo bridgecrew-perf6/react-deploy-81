@@ -16,7 +16,7 @@ export default function About() {
             </h1>
             <div>
               <p className="text-sky-100">
-                A Front-End Developer who has a life-long dedication to learning
+                A Software Developer who has a life-long dedication to learning
                 and is willing to take up challenges and combine creativity and
                 complex problems to develop user-friendly applications. Recieved a coding bootcamp certificate
                 from the University of Texas at San Antonio.

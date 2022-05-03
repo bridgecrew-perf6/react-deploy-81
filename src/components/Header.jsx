@@ -17,7 +17,7 @@ export default function Header() {
             typeSpeed={100}
             deleteSpeed={50}
             delaySpeed={1000}
-            words={[" Frontend Developer.", "Programmer.", "Runner.", "Star Wars Fan."]}
+            words={[" Software Developer.", "Frontend Developer", "Programmer.", "Runner.", "Star Wars Fan."]}
           />
         </p>
       </section>
